@@ -21,6 +21,11 @@ h3{
     line-height: 1.8em !important;
     font-weight: 500 !important;
 }
+h4 {
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    line-height: 1.8em !important;
+}
 p {
     margin-bottom: 20px !important;
 }
@@ -125,7 +130,7 @@ p {
     border-color: #fff;
 }
 .section-wrapper {
-    padding: 50px;
+    padding: 40px;
 }
 .section-title{
     padding-bottom: 10px;
